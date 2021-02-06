@@ -2,10 +2,10 @@
   "tests": [
     {
       "name": "Reflections",
-      "setup": "javac test.java",
-      "run": "java test",
+      "setup": "javac main4.java",
+      "run": "java main4",
       "input": "testAggies",
-      "output": "OK: testX succeeded",
+      "output": "2017",
       "comparison": "included",
       "timeout": 10,
       "points": null
