@@ -2,8 +2,8 @@
   "tests": [
     {
       "name": "Reflections",
-      "setup": "javac main4.java",
-      "run": "java main4",
+      "setup": "javac test.java",
+      "run": "java test",
       "input": "testAggies",
       "output": "OK: testX succeeded",
       "comparison": "included",
