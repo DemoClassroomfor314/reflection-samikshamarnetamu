@@ -4,8 +4,8 @@
       "name": "Reflections",
       "setup": "javac test.java",
       "run": "java test",
-      "input": "testAggies",
-      "output": "OK: testX succeeded",
+      "input": "FaketestAggies",
+      "output": "FAILED: testX failed",
       "comparison": "included",
       "timeout": 10,
       "points": null
