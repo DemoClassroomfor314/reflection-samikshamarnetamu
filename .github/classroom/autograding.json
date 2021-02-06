@@ -5,7 +5,7 @@
       "setup": "javac main4.java",
       "run": "java main4",
       "input": "testAggies",
-      "output": "2017",
+      "output": "OK: testX succeeded",
       "comparison": "included",
       "timeout": 10,
       "points": null
