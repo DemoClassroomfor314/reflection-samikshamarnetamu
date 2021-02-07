@@ -3,8 +3,8 @@
     {
       "name": "Reflections",
       "setup": "javac test.java",
-      "run": "java Main4",
-      "input": "FaketestAggies",
+      "run": "java Main4 FaketestAggies",
+      "input": "",
       "output": "FAILED: testX failed",
       "comparison": "included",
       "timeout": 10,
